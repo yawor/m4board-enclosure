@@ -1,0 +1,3 @@
+[submodule "pcb_enclosure"]
+	path = pcb_enclosure
+	url = https://github.com/yawor/openscad-pcb-enclosure-generator.git
